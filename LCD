@@ -1,5 +1,6 @@
 PROCESSOR 16F877A
 #include <xc.inc>
+...
 
 CONFIG FOSC = HS     ; Oscilador de alta velocidad (4MHz)
 CONFIG WDTE = OFF
